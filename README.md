@@ -1,8 +1,4 @@
-# Análisis Matemático I (Biología) — Primer cuatrimestre de 2017
-
-## Equipo docente
-
-- **Clases teóricas:** Pablo Solernó, Daniel Suárez, María Gabriela Armentano
+# Análisis Matemático I B — Primer cuatrimestre de 2017
 
 ## Prácticas
 
@@ -16,14 +12,6 @@
 - [Practica6](Practica6.pdf)
 - [Práctica 6 - Integración](Practica6-2.pdf)
 - [Práctica 7 - Introducción a las ecuaciones diferenciales](Practica7.pdf)
-
-## Bibliografía
-
-- M. de Guzmán, J. Colera. “Matemáticas I” – C.O.U. Editorial Anaya, 1989.
-- M de Guzman, J. Colera. “Matemática II” –C.O.U. . Editorial Anaya, 1989.
-- Noriega, R.J. “Cálculo Diferencial e Integral”. Editorial Docencia, Buenos Aires, 1984.
-- Stewart, J. “Calculus”, Grupo Editorial Iberoamerica, México, 1994.
-- Zill, D.G. “Cálculo con Geometría Analítica”, Grupo Editorial Iberoamerica, México, 1987.
 
 ## Página original
 
